@@ -1,0 +1,36 @@
+ASSIGNMENT 2 - SUBMISSION FOLDER
+SARS-CoV-2 miRNA Expression Analysis
+
+This folder contains all required files in Excel format.
+
+REQUIRED FILES FOR SUBMISSION:
+
+1. EXPRESSION LEVELS FILE
+   - expression_levels.xlsx
+   Contains: miRNA expression levels for all 12 samples (500 miRNAs)
+
+2. WRITTEN REPORT
+   - Analysis_Report.xlsx
+   Contains: Complete analysis report with DEG and GO enrichment results
+
+3. README FILE
+   - README.md
+   Contains: All analysis steps, software versions, and genome build info
+
+ADDITIONAL ANALYSIS RESULTS (Excel Format)
+
+Differential Expression Analysis:
+- DEG_Comparison1_Mock_vs_SARS-CoV-2.xlsx
+- DEG_Comparison2_SARS-CoV-2_24H_vs_72H.xlsx
+
+GO Term Enrichment Analysis:
+- GO_Enrichment_Comparison1_Mock_vs_SARS-CoV-2_All.xlsx
+- GO_Enrichment_Comparison1_Mock_vs_SARS-CoV-2_Upregulated.xlsx
+- GO_Enrichment_Comparison1_Mock_vs_SARS-CoV-2_Downregulated.xlsx
+- GO_Enrichment_Comparison2_SARS-CoV-2_24H_vs_72H_All.xlsx
+- GO_Enrichment_Comparison2_SARS-CoV-2_24H_vs_72H_Upregulated.xlsx
+- GO_Enrichment_Comparison2_SARS-CoV-2_24H_vs_72H_Downregulated.xlsx
+
+ORIGINAL DATA FILE
+
+- assignment_2_info.csv (original sample information)
